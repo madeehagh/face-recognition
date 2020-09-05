@@ -38,5 +38,6 @@ org.json
 azure-cognitiveservices-computervision
 azure-cognitiveservices-faceapi
 
-#Main Class src/main/java/FaceRecognitionMain.java
+# Main Class 
+src/main/java/FaceRecognitionMain.java
 
