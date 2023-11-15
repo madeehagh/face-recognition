@@ -1,14 +1,14 @@
 # face-recognition
 
-We have a lot of photos with people in each photo.
-We want to write a program which can tell us the number of faces in each photo and also return the total
+There are a lot of photos with people in each given photo.
+This project can tell us the number of distinct faces in each photo and also return the total
 number of faces.
 
 # Dataset
 
 Link to photos
 https://drive.google.com/file/d/1IoYida6sWq-jyAK-SDTuc2lemu6321YF/view
-This contains a zip file containing 107 images, each with different number of faces in
+This contains a zip file containing 107 images, each with a different number of faces in
 between. File names are of the format 108.jpeg , 109.jpeg , 110.jpeg , ..., 214.jpeg .
 
 
